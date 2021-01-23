@@ -29,4 +29,4 @@ GitHub supports emoji!
 :+1: :sparkles: :camel: :tada:
 :rocket: :metal: :octocat: 
 
-[![An old rock in the desert](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")](https://media-cdn.tripadvisor.com/media/photo-s/05/13/d4/78/camello.jpggit)
+[![An old rock in the desert](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")](https://media-cdn.tripadvisor.com/media/photo-s/05/13/d4/78/camello.jpg)
